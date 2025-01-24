@@ -1,6 +1,6 @@
 # 🧸 MEDvetkin
 
-**`Digital Craftsman (Developer TON/ Full-stack)`**
+**`Digital Craftsman`**
 
 I'm a full-stack developer, building websites from scratch. I also develop in the field of web 3.0 technologies and want to create a new decentralized network so that every user was free on the Internet. p.s hope I can do it :)
 
